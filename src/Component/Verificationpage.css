@@ -75,7 +75,12 @@ p {
   justify-content: center;
   text-align: center;
   padding: 30px;
+  font-weight: 900;
 }
+.right-section p{
+  color: white;
+}
+
 .right-section img{
   height: 350px;
 }
